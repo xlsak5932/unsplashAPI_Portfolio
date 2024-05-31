@@ -26,6 +26,9 @@
   flex-direction: column;
   text-align: center;
 }
+.search__tag__box h1 {
+  color: #fff;
+}
 .search__tag__box input {
   width: 215px;
   height: 35px;
@@ -45,3 +48,4 @@
 .search__tag__box .search__btn:hover {
   background-color: #b47545;
 }
+
