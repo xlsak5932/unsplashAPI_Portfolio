@@ -1,4 +1,7 @@
+
 .header__box {
+  width: 1280px;
+  margin: 0 auto;
   text-align: center;
   padding: 25px 0px;
   border-bottom: 1px solid #fff;
