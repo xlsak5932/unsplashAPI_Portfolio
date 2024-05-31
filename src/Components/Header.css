@@ -1,0 +1,38 @@
+.header__box {
+  text-align: center;
+  padding: 25px 0px;
+  border-bottom: 1px solid #fff;
+}
+.header__logo {
+  color: #fff;
+  text-decoration: none;
+}
+.header__box ul {
+  display: flex;
+}
+.header__box ul li {
+  list-style: none;
+  margin-right: 35px;
+  padding: 5px 15px;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+.header__box ul li:hover {
+  font-weight: bold;
+}
+.header__box .sub__btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #b45a2d;
+  width: 175px;
+  height: 45px;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+.header__box .sub__btn:hover {
+  background-color: #ff5500;
+}
+.sub__icon {
+  margin-left: 5px;
+}

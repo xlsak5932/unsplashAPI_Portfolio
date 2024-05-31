@@ -1,0 +1,35 @@
+.Detail__total__box {
+  padding: 80px 0;
+}
+.detail__box {
+  width: 500px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.type {
+}
+.title {
+}
+.detail__box img {
+}
+.img__desc {
+}
+.description {
+}
+.cap {
+}
+.download {
+}
+.btn__box {
+  text-align: center;
+}
+.detail__btn {
+  background-color: #ff7b00;
+  color: #fff;
+  transition: all 0.2s;
+}
+.detail__btn:hover {
+  background-color: #b5763b;
+}
