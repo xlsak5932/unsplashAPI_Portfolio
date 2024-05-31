@@ -43,6 +43,9 @@
 .search__tag__box .search__icon {
   color: #989898;
 }
+.img__con__bottom p {
+  color: #fff;
+}
 .search__tag__box .search__btn {
   background-color: #ff6f00;
   color: #fff;
