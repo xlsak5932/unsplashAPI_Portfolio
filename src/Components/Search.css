@@ -11,6 +11,9 @@
   align-items: center;
   width: 100%;
 }
+.search__box h1 {
+  color: #fff;
+}
 .search__box img {
   height: 300px;
   margin-top: 25px;
