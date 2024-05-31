@@ -7,10 +7,10 @@ function Header() {
   return (
     <div className="header">
        <div className="header__box">
-      <a href="/" className="header__logo">
-        Blog Portfolio
-      </a>
-    </div>
+        <a href="/" className="header__logo">
+          Blog Portfolio
+        </a>
+       </div>
     </div>
    
   );
